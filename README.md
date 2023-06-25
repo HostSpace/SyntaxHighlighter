@@ -1,4 +1,4 @@
-Add below before the </Head>
+Add below before the Head end tag
 
 <!-- 'SyntaxHighlighter' additions START -->
 <script src='https://hostspace.github.io/SyntaxHighlighter/js/shCore.js' type='text/javascript'/>
