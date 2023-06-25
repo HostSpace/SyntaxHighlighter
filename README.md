@@ -1,4 +1,4 @@
-Add below before the Head end tag
+Add the below before the Head end tag
 
 <!-- 'SyntaxHighlighter' additions START -->
 <script src='https://hostspace.github.io/SyntaxHighlighter/js/shCore.js' type='text/javascript'/>
@@ -11,3 +11,18 @@ Add below before the Head end tag
     SyntaxHighlighter.all();
 </script>
 <!-- 'SyntaxHighlighter' additions END -->
+
+
+Use like this-
+
+<div>
+<b>Spawner.cs</b>
+<pre class="brush: csharp">
+using UnityEngine;
+
+public class Spawner : MonoBehaviour
+{
+    code....
+}
+</pre>
+</div>
